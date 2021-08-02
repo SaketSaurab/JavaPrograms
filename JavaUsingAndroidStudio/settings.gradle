@@ -1,0 +1,4 @@
+rootProject.name = "JavaUsingAndroidStudio"
+include ':app'
+include ':myapplication'
+include ':lib'

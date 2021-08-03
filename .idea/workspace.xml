@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33a46c85-241a-4cc7-be10-d81d281d2983" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaAssignment/src/MethodToCheckStringIsPalindromeOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+    <list default="true" id="33a46c85-241a-4cc7-be10-d81d281d2983" name="Default Changelist" comment="3/8/21">
+      <change afterPath="$PROJECT_DIR$/Java Programs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Programs/src/Java Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAssignment/JavaAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/AbstractionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/MyBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/MyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/MyData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programs/out/production/JavaArrays/DuplicateElementsInTheMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java Programs/out/production/JavaArrays/DuplicateElementsInTheMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Programs/src/DuplicateElementsInTheMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Programs/src/DuplicateElementsInTheMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +30,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wDgmig3kpflWfm6isLEVpnTGO1" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -57,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1627951265627</updated>
     </task>
+    <task id="LOCAL-00001" summary="3/8/21">
+      <created>1627962484646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627962484646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,5 +89,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3/8/21" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/8/21" />
   </component>
 </project>

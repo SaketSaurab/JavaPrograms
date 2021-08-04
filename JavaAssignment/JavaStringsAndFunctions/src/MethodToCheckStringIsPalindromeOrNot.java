@@ -20,6 +20,6 @@ public class MethodToCheckStringIsPalindromeOrNot {
         String str1 = sc.nextLine();
         if (palindromeOrNot(str1))
             System.out.println("Palindrome");
-         else System.out.println("Not Palindrome");
+        else System.out.println("Not Palindrome");
     }
 }

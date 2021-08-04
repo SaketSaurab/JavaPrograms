@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33a46c85-241a-4cc7-be10-d81d281d2983" name="Default Changelist" comment="3/8/21">
-      <change afterPath="$PROJECT_DIR$/Java Programs/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Programs/src/Java Programs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAssignment/JavaAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/AbstractionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/MyBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/MyCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/MyData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaClassPrograms/src/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data Structure" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Programs/out/production/JavaArrays/DuplicateElementsInTheMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java Programs/out/production/JavaArrays/DuplicateElementsInTheMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Programs/src/DuplicateElementsInTheMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Programs/src/DuplicateElementsInTheMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627962484646</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3/8/21">
+      <created>1627998810949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627998810949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Write a method that will remove the given character from the String
 public class MethodToRemoveTheGivenCharacter {
     public static void main(String[] args) {
         Scanner str=new Scanner(System.in);

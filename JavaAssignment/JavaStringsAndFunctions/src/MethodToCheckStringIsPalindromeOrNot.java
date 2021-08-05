@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Write a method to check if the given String is Palindrome?
 public class MethodToCheckStringIsPalindromeOrNot {
     static boolean palindromeOrNot(String str) {
         int a = 0, b = str.length() - 1;

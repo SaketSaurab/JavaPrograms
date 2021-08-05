@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Write a calculator program with common operations.
 public class CalculatorProgramWithCommonOperation {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

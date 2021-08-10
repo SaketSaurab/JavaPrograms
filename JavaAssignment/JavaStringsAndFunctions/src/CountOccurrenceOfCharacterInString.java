@@ -6,8 +6,10 @@ public class CountOccurrenceOfCharacterInString {
         String str=sc.nextLine();
         for (int i=0;i<str.length();i++){
             char c=str.charAt(i);
-            System.out.print("Occurrence of "+c+" = ");
-            System.out.println(Occurrence(str,c));
+
+
+                    System.out.print("Occurrence of " + c + " = ");
+                System.out.println(Occurrence(str, c));
         }
 
     }

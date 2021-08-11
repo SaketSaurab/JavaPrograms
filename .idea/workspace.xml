@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33a46c85-241a-4cc7-be10-d81d281d2983" name="Default Changelist" comment="5/8/21">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="33a46c85-241a-4cc7-be10-d81d281d2983" name="Default Changelist" comment="10/8/21">
       <change beforePath="$PROJECT_DIR$/Data Structure" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAssignment/JavaStringsAndFunctions/out/production/JavaStringsAndFunctions/CountOccurrenceOfCharacterInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAssignment/JavaStringsAndFunctions/out/production/JavaStringsAndFunctions/CountOccurrenceOfCharacterInString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAssignment/JavaStringsAndFunctions/src/CountOccurrenceOfCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAssignment/JavaStringsAndFunctions/src/CountOccurrenceOfCharacterInString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data Structure" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="MethodToCheckStringIsPalindromeOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -100,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628177203406</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="10/8/21">
+      <created>1628556227368</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628556227368</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3/8/21" />
     <MESSAGE value="5/8/21" />
-    <option name="LAST_COMMIT_MESSAGE" value="5/8/21" />
+    <MESSAGE value="10/8/21" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/8/21" />
   </component>
 </project>
